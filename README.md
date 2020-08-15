@@ -6,6 +6,7 @@ A simple python code to generate spotify playlists and give song recommendations
 - Go to developer.spotify.com and sign in into your account.
 - Go to the DASHBOARD menu and click on create a new app.
 - After succesfully creating your new app, obtain your unique client id and client secret.
+- Now go to Edit Settings in the dashboard, and set the Redirect URI to 'http://example.com'
 - Now obtain your spotify username and head to the program.
 - Open the spotify_client.py file and paste in your credentials and hit save.
 - Now run the program and enjoy :)
@@ -13,3 +14,5 @@ A simple python code to generate spotify playlists and give song recommendations
 # Note
 
 You might be asked to authorize the app on the first run. Click allow when prompted.
+
+All queries and suggestions are welcome.
